@@ -47,3 +47,9 @@ Let’s build a more open future together!
 🔗 [GitHub](https://github.com) | [Mastodon](https://mastodon.social) | [Matrix](https://matrix.org)  
 
 *"The best code is the one everyone can use and improve."*  
+
+JOIN THE MOVEMENT
+
+[![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat&logo=matrix&logoColor=white)](https://matrix.org)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://joinmastodon.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/open-source)
